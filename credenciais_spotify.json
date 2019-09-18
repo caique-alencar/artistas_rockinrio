@@ -1,0 +1,7 @@
+{
+    "client_id": "935cd7c979194f49a9a0dad2983872c0",
+    "client_secret": "ae4d9ca787e748cc8e6ef08060dab211",
+    "redirect_uri": "http://localhost:8000/",
+    "scope": "playlist-modify-public",
+    "username": "12148310296"
+}
